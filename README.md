@@ -1,4 +1,4 @@
-![readmebox](https://github.com/rodnemeja/rodnemeja/assets/74493197/30bc3a5a-a7ce-4ee7-a52e-7bdf3decb8b8)
+![@rodnemeja](https://github.com/rodnemeja/rodnemeja/assets/74493197/30bc3a5a-a7ce-4ee7-a52e-7bdf3decb8b8)
 <h1 align="center">Hi 👋, I'm Rodne Meja</h1>
 <h3 align="center">Warning!!!!!</h3>
 <img align="right" alt="Coding" witdh="400" src="https://i.gifer.com/origin/7c/7c57b5b16757db7d4867cd5a451b04b2_w200.gif">
